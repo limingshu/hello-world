@@ -1,6 +1,3 @@
 # hello-world
-github training repository
-a new change
-
-new cahnge
+put some leetcode code here as a github trainning
 
